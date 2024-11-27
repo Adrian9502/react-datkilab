@@ -1,5 +1,5 @@
 import Header from "./components/Header"
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Copy } from 'lucide-react';
 
 function App() {
